@@ -4,7 +4,7 @@
 #   Ensure the SQLite 3 gem is defined in your Gemfile
 #   gem 'sqlite3'
 development:
-  adapter: postgis
+  adapter: postgresql
   database: greenhome_development
   username: greenhome
   password: greenhome
