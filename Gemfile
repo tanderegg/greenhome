@@ -27,7 +27,7 @@ gem 'paperclip', '~> 3.0'
 gem 'devise'
 gem 'remotipart', '~> 1.0'
 gem 'nokogiri'
-gem 'activerecord-import'
+gem 'activerecord-import', :git => 'git://github.com/pirelenito/activerecord-import.git'
 
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'

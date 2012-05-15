@@ -1,3 +1,11 @@
+GIT
+  remote: git://github.com/pirelenito/activerecord-import.git
+  revision: 8afa0ac5a90a040e0e34977dee852f083641d88d
+  specs:
+    activerecord-import (0.2.8)
+      activerecord (~> 3.0pre)
+      activerecord (~> 3.0pre)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -22,9 +30,6 @@ GEM
       activesupport (= 3.2.3)
       arel (~> 3.0.2)
       tzinfo (~> 0.3.29)
-    activerecord-import (0.2.9)
-      activerecord (~> 3.0)
-      activerecord (~> 3.0)
     activerecord-postgis-adapter (0.4.3)
       pg (>= 0.11.0)
       rgeo-activerecord (~> 0.4.5)
@@ -168,7 +173,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  activerecord-import
+  activerecord-import!
   activerecord-postgis-adapter
   coffee-rails (~> 3.2.1)
   cucumber-rails
