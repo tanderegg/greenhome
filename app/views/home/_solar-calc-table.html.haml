@@ -1,0 +1,45 @@
+%table
+	%tr
+		%th{:class => 'first-column'} &nbsp;
+		%th Annual
+		%th Jan.
+		%th Feb.
+		%th Mar.
+		%th Apr.
+		%th May.
+		%th Jun.
+		%th Jul.
+		%th Aug.
+		%th Sep.
+		%th Oct.
+		%th Nov.
+		%th Dec.
+	%tr
+		%th{:class => 'first-column'} Solar Resource <br/><small>(w-hrs/m2/day)</small>
+		%td{:class => 'even'}= @solar_insolation_data.annual.to_i
+		%td{:class => 'odd'}= @solar_insolation_data.jan.to_i
+		%td{:class => 'even'}= @solar_insolation_data.feb.to_i
+		%td{:class => 'odd'}= @solar_insolation_data.mar.to_i
+		%td{:class => 'even'}= @solar_insolation_data.apr.to_i
+		%td{:class => 'odd'}= @solar_insolation_data.may.to_i
+		%td{:class => 'even'}= @solar_insolation_data.jun.to_i
+		%td{:class => 'odd'}= @solar_insolation_data.jul.to_i
+		%td{:class => 'even'}= @solar_insolation_data.aug.to_i
+		%td{:class => 'odd'}= @solar_insolation_data.sep.to_i
+		%td{:class => 'even'}= @solar_insolation_data.oct.to_i
+		%td{:class => 'odd'}= @solar_insolation_data.nov.to_i
+		%td{:class => 'even'}= @solar_insolation_data.dec.to_i
+	%tr
+		%th{:class => 'first-column'} PV Production <br/><small>(kwh)</small>
+		-for entry in @production_potential
+			%td{:class => cycle('even', 'odd')}= entry[1]
+		-cycle('even', 'odd')
+	%tr
+		%th{:class => 'first-column'} Average Usage <br/><small>(kwh)</small>
+		-for entry in @usage_data
+			%td{:class => cycle('even', 'odd')}= entry[1]
+		-cycle('even', 'odd')
+	%tr
+		%th{:class => 'first-column'} Cost Savings
+		-for entry in @cost_data
+			%td{:class => cycle('even', 'odd') + ", bold"}= number_to_currency(entry[1])

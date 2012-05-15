@@ -1,68 +1,21 @@
 #solar-calculator
-	#calc-options
-		%label # of Panels
-		%input{:type => 'text', :name => 'num_panels'}
-		%label Panel Size
-		%select{:name => 'panel_size'}
-			%option{:value => 60}
-				60 Watts
-			%option{:value => 200}
-				200 Watts
-
 	%h2 GreenHome Solar Calculator
 
 	%p Think you want to Go Solar?  Use this calculator to determine how much energy you can produce, and how long it would take to pay back on your investment.
 
-	%table
-		%tr
-			%th{:class => 'first-column'} &nbsp;
-			%th Annual
-			%th Jan.
-			%th Feb.
-			%th Mar.
-			%th Apr.
-			%th May.
-			%th Jun.
-			%th Jul.
-			%th Aug.
-			%th Sep.
-			%th Oct.
-			%th Nov.
-			%th Dec.
-		%tr
-			%th{:class => 'first-column'} Solar Resource (w-hrs/m2/day)
-			%td= @solar_insolation_data.annual.to_i
-			%td= @solar_insolation_data.jan.to_i
-			%td= @solar_insolation_data.feb.to_i
-			%td= @solar_insolation_data.mar.to_i
-			%td= @solar_insolation_data.apr.to_i
-			%td= @solar_insolation_data.may.to_i
-			%td= @solar_insolation_data.jun.to_i
-			%td= @solar_insolation_data.jul.to_i
-			%td= @solar_insolation_data.aug.to_i
-			%td= @solar_insolation_data.sep.to_i
-			%td= @solar_insolation_data.oct.to_i
-			%td= @solar_insolation_data.nov.to_i
-			%td= @solar_insolation_data.dec.to_i
+	#calc-options
+		=form_tag('/go_solar', :method => :get) do
+			%label # of Panels 
+			%input{:type => 'text', :name => 'panel_num', :value => @panel_num} 
+			%label Panel Size 
+			=select_tag 'panel_size', "<option value=\"60\" #{@panel_size.to_i==60 ? 'selected' : ''}>60 Watts</option><option value=\"100\" #{@panel_size.to_i==100 ? 'selected' : ''}>100 Watts</option><option value=\"200\" #{@panel_size.to_i==200 ? 'selected' : ''}>200 Watts</option>".html_safe
+			%label Cost
+			%span=number_to_currency(@panel_num.to_i*@panel_size.to_i*7.0) 
+			%button{:type => :submit} Refresh
 
-		%tr
-			%th{:class => 'first-column'} PV Production (kwh)
-			%td= @solar_insolation_data.calc_production('annual', @panel_factor)
-			%td= @solar_insolation_data.calc_production('jan', @panel_factor)
-			%td= @solar_insolation_data.calc_production('feb', @panel_factor)
-			%td= @solar_insolation_data.calc_production('mar', @panel_factor)
-			%td= @solar_insolation_data.calc_production('apr', @panel_factor)
-			%td= @solar_insolation_data.calc_production('may', @panel_factor)
-			%td= @solar_insolation_data.calc_production('jun', @panel_factor)
-			%td= @solar_insolation_data.calc_production('jul', @panel_factor)
-			%td= @solar_insolation_data.calc_production('aug', @panel_factor)
-			%td= @solar_insolation_data.calc_production('sep', @panel_factor)
-			%td= @solar_insolation_data.calc_production('oct', @panel_factor)
-			%td= @solar_insolation_data.calc_production('nov', @panel_factor)
-			%td= @solar_insolation_data.calc_production('dec', @panel_factor)
-		%tr
-			%th{:class => 'first-column'} - Average Usage (kwh)
-			-for entry in @usage_data
-				%td= entry[1]
 
-	=@usage_data.to_s
+	#solar-calculator-content
+		=render :partial => 'solar-calc-table'
+
+	#solar-calc-chart
+		&nbsp;

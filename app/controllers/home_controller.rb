@@ -77,6 +77,10 @@ class HomeController < ApplicationController
   end
 
   def go_solar
+
+    @panel_num = params[:panel_num] || 10
+    @panel_size = params[:panel_size] || 60
+
     if not session['usage-point'].blank?
       if user_signed_in?
         @usage_point = current_user.usage_point = UsagePoint.find_by_id(session['usage-point'])
@@ -98,22 +102,21 @@ class HomeController < ApplicationController
 
     @solar_insolation_data = SolarInsolationGrid.containing_latlon(@zipcode.latitude, @zipcode.longitude)[0]
 
-    @geom = @solar_insolation_data.the_geom.to_s
-    @geom_geographic = "Geographic: #{@solar_insolation_data.geom_unproject}"
-    @lat = @zipcode.latitude
-    @lon = @zipcode.longitude
-
-    @panel_factor = 1
-
-    @usage_data = @usage_point.readings.select('EXTRACT(year from start) as year, EXTRACT(month from start) as month, SUM(value)/1000 as total_usage').group('year, month').collect{|entry| [entry.month, entry.total_usage]}
+    @usage_data = @usage_point.readings.select('EXTRACT(year from start) as year, EXTRACT(month from start) as month, SUM(value)/1000 as total_usage, AVG(cost/value)/100 as average_cost').group('year, month').collect{|entry| [entry.month, entry.total_usage, entry.average_cost]}
 
     tmp_hash = {}
+    @cost_data = {}
 
     for entry in @usage_data
       if tmp_hash[entry[0]]
         tmp_hash[entry[0]] = [tmp_hash[entry[0]][0] + entry[1].to_i, tmp_hash[entry[0]][1] + 1]
       else
         tmp_hash[entry[0]] = [entry[1].to_i, 1]
+      end
+      if @cost_data[entry[0]]
+        @cost_data[entry[0]] = [@cost_data[entry[0]][0] + entry[2].to_f, tmp_hash[entry[0]][1] + 1]
+      else
+        @cost_data[entry[0]] = [entry[2].to_f, 1]
       end
     end
 
@@ -122,6 +125,31 @@ class HomeController < ApplicationController
       tmp_hash[key] = (value[0].to_f/value[1].to_f).to_i
       annual_usage += tmp_hash[key]
     end
+
+    @production_potential = {}
+    counter = 0
+    for key, value in SolarInsolationGrid::DAYS_PER_MONTH
+      puts key
+      @production_potential[counter.to_s] = @solar_insolation_data.calc_production(key, @panel_size.to_i, @panel_num.to_i)
+      counter += 1
+    end
+
+    annual_cost = 0
+    for key, value in @cost_data
+
+      energy_savings = (@production_potential[key] - tmp_hash[key])
+      if energy_savings > 0
+        energy_savings = tmp_hash[key]
+      else
+        energy_savings = @production_potential[key]
+      end
+
+      @cost_data[key] = ((value[0].to_f/value[1].to_f)*energy_savings).round(2)
+      annual_cost += @cost_data[key]
+    end
+
+    @cost_data = @cost_data.to_a.sort{|a, b| a[0].to_i <=> b[0].to_i}
+    @cost_data.insert(0, ["0", annual_cost.round(2)])
 
     @usage_data = tmp_hash.to_a.sort{|a, b| a[0].to_i <=> b[0].to_i}
     @usage_data.insert(0, ["0", annual_usage])

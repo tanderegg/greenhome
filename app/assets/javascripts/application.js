@@ -49,69 +49,71 @@ $(document).ready(function(){
 						 {label: 'Cost', data:c, yaxis:2}], { xaxes: [{ mode: "time" }], yaxes: [{position: 'left'}, {position: 'right'}]});
 //	});*/
 
-	options = {
-		chart: {
-			renderTo: 'usage-chart'
-		},
-		title: {
-			text: 'Your Energy Usage and Cost Over Time'
-		},
-		xAxis: [{
-			type: 'datetime'
-		}],
-		yAxis: [{
-			title: {
-				text: 'Energy Use (Kwh)'
+	if (!(typeof c === 'undefined')) {
+		options = {
+			chart: {
+				renderTo: 'usage-chart'
 			},
-			type: 'linear',
-		}, {
 			title: {
-				text:'Cost ($ per Kwh)'
+				text: 'Your Energy Usage and Cost Over Time'
 			},
-			type: 'linear',
-			opposite: true
-		}],
-		colors: [
-			'#55AA55',
-			'#CCCCFF',
-			'#FF9999',
-			'#88AADD',
-		],
-		plotOptions: {
-            series: {
-                marker: {
-                    enabled: false,
-                    states: {
-                        hover: {
-                            enabled: true
-                        }
-                    }
-                }
-            }
-        },
-		series: [{
-			id: 'cost-series',
-			data: c,
-			name: 'Cost per Kwh',
-			type: 'column',
-			yAxis: 1
-		}, {
-			id: 'average-use-series',
-			data: a,
-			name: 'Average Use'
-		}, {
-			id: 'average-state-series',
-			data: s,
-			name: 'Average for CA'
-		}, {
-			id: 'energy-use-series',
-			data: d,
-			name: 'Energy Use'
-		}]
-	};
+			xAxis: [{
+				type: 'datetime'
+			}],
+			yAxis: [{
+				title: {
+					text: 'Energy Use (Kwh)'
+				},
+				type: 'linear',
+			}, {
+				title: {
+					text:'Cost ($ per Kwh)'
+				},
+				type: 'linear',
+				opposite: true
+			}],
+			colors: [
+				'#55AA55',
+				'#CCCCFF',
+				'#FF9999',
+				'#88AADD',
+			],
+			plotOptions: {
+	            series: {
+	                marker: {
+	                    enabled: false,
+	                    states: {
+	                        hover: {
+	                            enabled: true
+	                        }
+	                    }
+	                }
+	            }
+	        },
+			series: [{
+				id: 'cost-series',
+				data: c,
+				name: 'Cost per Kwh',
+				type: 'column',
+				yAxis: 1
+			}, {
+				id: 'average-use-series',
+				data: a,
+				name: 'Average Use'
+			}, {
+				id: 'average-state-series',
+				data: s,
+				name: 'Average for CA'
+			}, {
+				id: 'energy-use-series',
+				data: d,
+				name: 'Energy Use'
+			}]
+		};
 
-	chart = new Highcharts.Chart(options);
-	chart.xAxis[0].setExtremes(start_date, end_date);
+		chart = new Highcharts.Chart(options);
+		chart.xAxis[0].setExtremes(start_date, end_date);
+	}
 
 	$("#register-link").colorbox({
 		href: "#register",
@@ -139,14 +141,29 @@ $(document).ready(function(){
 	}
 
 	$("form#ajax_signup").submit(function(e){
-		alert('Happening');
 	    e.preventDefault(); //This prevents the form from submitting normally
 	    var user_info = $(this).serializeObject();
 	    console.log("About to post to /users: " + JSON.stringify(user_info));
 	    $.ajax({
 	       type: "POST",
-	       url: "http://localhost:3000/users",
+	       url: "/users",
 	       data: user_info,
+	       success: function(json){
+	         console.log("The Devise Response: " + JSON.stringify(json));
+	         window.location = "/dashboard";
+	         //alert("The Devise Response: " + JSON.stringify(json));
+	       },
+	       dataType: "json"
+	    });
+	});
+	$("form#ajax_login").submit(function(e){
+	    e.preventDefault(); //This prevents the form from submitting normally
+	    var login_info = $(this).serializeObject();
+	    console.log("About to post to /users/sign_in.json: " + JSON.stringify(login_info));
+	    $.ajax({
+	       type: "POST",
+	       url: "/users/sign_in",
+	       data: login_info,
 	       success: function(json){
 	         console.log("The Devise Response: " + JSON.stringify(json));
 	         //alert("The Devise Response: " + JSON.stringify(json));

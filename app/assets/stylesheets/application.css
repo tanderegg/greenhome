@@ -88,13 +88,14 @@ label {
 	padding: 1em;
 	border-radius: 15px;
 	box-shadow: 0px 20px 50px #333;
+	margin-bottom: 5em;
 }
 
 #account-notice {
 	width: 400px;
 	float: right;
 	border: 1px solid #000;
-	background: tan;
+	background: #FFFCCC;
 	padding: 10px;
 	font-size: 75%;
 	margin: 0;

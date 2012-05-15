@@ -31,7 +31,7 @@ class SolarInsolationGrid < ActiveRecord::Base
     where("ST_Intersects(the_geom, ST_GeographyFromText('SRID=4326;POINT(#{lon} #{lat})'))")
   end
 
-  def calc_production(timeframe, panel_factor)
-  	((self[timeframe].to_f*DAYS_PER_MONTH[timeframe] * 100 * 0.11)/1000).round(1)
+  def calc_production(timeframe, panel_size, panel_num)
+  	(((self[timeframe].to_f/1000 * panel_size)*panel_num*DAYS_PER_MONTH[timeframe])/1000).round(0)
   end
 end

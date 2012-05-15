@@ -12,7 +12,6 @@
 			%ul#dashboard-nav
 				%li=link_to 'Usage Chart', update_chart_url(:unit => :month), :remote => true, :class => 'selected'
 				%li=link_to 'Go Solar', go_solar_url
-				%li=link_to 'Energy Audit', '#'
 			#usage-stats
 				%h4 Quick Facts
 				%ul
@@ -31,7 +30,6 @@
 					%li=link_to 'Daily', update_chart_url(:unit => :day), :remote => true, :class => 'chart-link'
 					%li=link_to 'Weekly', update_chart_url(:unit => :week), :remote => true, :class => 'chart-link'
 					%li=link_to 'Monthly', update_chart_url(:unit => :month), :remote => true, :class => 'chart-link selected'
-					%li=link_to 'Usage Pattern', update_chart_url(:unit => :typical_week), :remote => true, :class => 'chart-link'
 			#usage-chart
 
 	%script

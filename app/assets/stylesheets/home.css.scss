@@ -2,7 +2,6 @@
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
 
-
 .greenbutton {
 	width: 200px;
 	float: left;
@@ -155,14 +154,49 @@ ul#chart-options li a.selected {
 	margin: 2em 0;
 }
 
+#calc-options {
+	padding: 0.25em 0.5em;
+	margin-bottom: 1em;
+	background: #DDDDFF;
+	border-radius: 10px;
+}
+
+#calc-options input {
+	width: 5em;
+}
+
+#calc-options input, #calc-options select {
+	margin-right: 2em;
+}
+
+#solar-calc-chart {
+	width: 920px;
+	height: 400px;
+}
+
+#calc-options button {
+	float: right;
+}
+
 #solar-calculator table {
 	width: 100%;
 }
 
 #solar-calculator th.first-column {
-	width: 3em;
+	width: 4em;
 }
 
-#solar-calculator td {
+#solar-calculator td, th {
 	text-align: center;
+	padding: 0em 0.25em 1em 0.25em;
+	width: 3em;
+	font-size: 85%;
+}
+
+#solar-calculator td.even {
+	background: #EAEAFF;
+}
+
+#solar-calculator td.bold {
+	font-weight: bold;
 }

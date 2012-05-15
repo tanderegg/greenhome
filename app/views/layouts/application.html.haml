@@ -15,7 +15,7 @@
 					%li=link_to 'About', about_url
 					-if user_signed_in?
 						%li=link_to 'My Account', account_url
-						%li=link_to 'Logout', '#', :method => :delete
+						%li=link_to 'Logout', '/users/sign_out', :method => :delete
 					-else
 						%li=link_to 'Login', '#', :id => 'login-link'
 
@@ -28,7 +28,7 @@
 			%div{:style => "display: none;"}
 				#login.modal-window
 					%h3 Login to Your Account
-					=form_for(:session, :url => "#", :html => {:id => "ajax_login"}) do |f|
+					=form_for(:session, :url => "", :html => {:id => "ajax_login"}) do |f|
 						%p= f.email_field :email, :placeholder => "Email"
 						%p= f.password_field :password, :placeholder => "Password"
 						%p= f.submit "Login"

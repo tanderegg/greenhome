@@ -16,11 +16,11 @@
 
 %p 
 	To get started,
-	=link_to 'download your data using the Green Button.', 'about'
+	=link_to 'download your data using the Green Button.', 'http://www.greenbuttondata.org/greenhowto.html', :target => :blank
 	Then, upload it to GreenHome using the form below.
 
 #green-button-submit.clearfix
-	=form_for @import, :remote => true, :html => {:multipart => true, :id => 'home-import-form'} do |f|
+	=form_for @import, :html => {:multipart => true, :id => 'home-import-form'} do |f|
 
 		#error-messages
 			-if @import.errors.any?
@@ -39,5 +39,5 @@
 
 %p.note 
 	If your energy provider does not yet support the Green Button,
-	=link_to 'click here', ''
+	=link_to 'click here', 'http://www.greenbuttondata.org/greendevelop.aspx'
 	to download sample data.
