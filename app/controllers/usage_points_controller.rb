@@ -1,0 +1,2 @@
+class UsagePointsController < ApplicationController
+end

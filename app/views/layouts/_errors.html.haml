@@ -1,0 +1,5 @@
+#error-messages-wrapper
+	%h4 There Were Errors in Your Submission!
+	%ul
+		-for error in object.errors.full_messages
+			%li= error

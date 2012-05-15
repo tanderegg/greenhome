@@ -1,0 +1,168 @@
+// Place all the styles related to the home controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+
+.greenbutton {
+	width: 200px;
+	float: left;
+}
+
+#green-button-form {
+	margin-left: 200px;
+	padding: 0.5em 2em;
+	margin-top: 1em;
+}
+
+.solar-panel-image {
+	width: 300px;
+	float: right;
+	margin: 0 1em;
+}
+
+#wrapper {
+	width: 960px;
+}
+
+#dashboard-wrapper {
+	clear: both;
+	margin-top: 0em;
+}
+
+#dashboard-sidebar {
+	width: 180px;
+	float: left;
+	background: #3D9C4A;
+	padding: 10px;
+}
+
+ul#dashboard-nav {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+
+	li {
+		width: 100%;
+		background: #FFF;
+		border: 1px solid black;
+		font-weight: bold;
+		border-radius: 10px;
+		margin-bottom: 0.5em;
+
+		a {
+			color: #000;
+			text-decoration: none;
+			padding: 0.5em 0.5em;
+			margin: 0;
+			display: block;
+			border-radius: 10px;
+			text-align: center;
+		}
+
+		a:hover, a.selected {
+			background: #A0FFAD;
+		}
+	}
+
+}
+
+#dashboard-content {
+	margin-left: 210px;
+}
+
+#usage-stats {
+	background: #EFEFEF;
+	border: 1px solid #BBB;
+	padding: 0.5em;
+	margin-bottom: 1em;
+	font-size: 85%;
+
+	ul {
+		list-style-type: none;
+		margin: 0;
+		padding: 0;
+
+		li {
+			margin-bottom: 0.5em;
+		}
+	}
+}
+
+
+.chart-link {
+	border: 1px solid #AAF;
+	background: #DDF;
+	padding: 0.25em 0.5em;
+	border-radius: 5px;
+	font-size: 75%;
+}
+
+a.chart-link {
+	text-decoration: none;
+	color: #000;
+}
+
+ul#chart-options {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	float: right;
+}
+
+ul#chart-options li {
+	display: inline;
+}
+
+ul#chart-options li a.selected {
+	font-weight: bold;
+}
+
+#usage-chart {
+	margin: 1em 0em;
+	width: 715px;
+	height: 400px;
+}
+
+#account-form {
+	width: 640px;
+	margin: 0 auto;
+}
+
+#account-form label {
+	font-weight: bold;
+	width: 8em;
+	float: left;
+	display: block;
+}
+
+#account-form input.address-field {
+	width: 16em;
+}
+
+#account-form input.city-field {
+	width: 10em;
+}
+
+#account-form input.state-field {
+	width: 5em;
+}
+
+#account-form input.zipcode-field {
+	width: 5em;
+}
+
+#account-form form {
+	margin: 2em 0;
+}
+
+#solar-calculator table {
+	width: 100%;
+}
+
+#solar-calculator th.first-column {
+	width: 3em;
+}
+
+#solar-calculator td {
+	text-align: center;
+}

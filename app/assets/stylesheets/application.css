@@ -1,0 +1,170 @@
+/*
+ * This is a manifest file that'll be compiled into application.css, which will include all the files
+ * listed below.
+ *
+ * Any CSS and SCSS file within this directory, lib/assets/stylesheets, vendor/assets/stylesheets,
+ * or vendor/assets/stylesheets of plugins, if any, can be referenced here using a relative path.
+ *
+ * You're free to add application-wide styles to this file and they'll appear at the top of the
+ * compiled file, but it's generally better to create a new file per style scope.
+ *
+ *= require_self
+ *= require_tree .
+*/
+
+/* GENERAL STYLE */
+
+html, body {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background: #007A15 url('greenhome_bg.jpg') no-repeat center top;
+}
+
+p {
+	margin: 0;
+	padding: 0;
+	margin-bottom: 1em;
+}
+
+h1, h2, h3, h4, h5 {
+	margin: 0;
+	padding: 0;
+	margin-bottom: 0.5em;
+	line-height: 100%;
+	font-family: Arial;
+}
+
+.clearfix:after {
+	content: ".";
+	display: block;
+	clear: both;
+	visibility: hidden;
+	line-height: 0;
+	height: 0;
+}
+
+.clearfix {
+	display: inline-block;
+}
+
+html[xmlns] .clearfix {
+	display: block;
+}
+
+* html .clearfix {
+	height: 1%;
+}
+
+* {
+	font-family: Sans-Serif;
+}
+
+label {
+	font-weight: strong;
+}
+
+/* MAIN LAYOUT STYLE */
+
+#wrapper {
+	width: 640px;
+	margin: 0 auto;
+	margin-top: 50px;
+}
+
+#header #blurb {
+	float: right;
+	margin: 0.75em;
+	font-style: italic;
+	font-size: 150%;
+	width: 11em;
+}
+
+#content {
+	border: 1px solid #000;
+	background: #FFF;
+	padding: 1em;
+	border-radius: 15px;
+	box-shadow: 0px 20px 50px #333;
+}
+
+#account-notice {
+	width: 400px;
+	float: right;
+	border: 1px solid #000;
+	background: tan;
+	padding: 10px;
+	font-size: 75%;
+	margin: 0;
+	margin-top: -15px;
+}
+
+ul#header-nav {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	display: inline;
+	position: relative;
+	top: -0.75em;
+}
+
+ul#header-nav li {
+	display: inline;
+	padding: 0.25em 0.5em;
+}
+
+ul#header-nav li a {	
+	font-weight: bold;
+	color: #FFF;
+	text-decoration: none;
+}
+
+/* COMMON STYLE */
+
+.modal-window {
+	background: #FFF;
+	padding: 1em;
+	border-radius: 15px;
+	box-shadow: 0px 0px 10px #333;
+	position: relative;
+	border: 1px solid black;
+	margin: 1em;
+}
+
+.note {
+	font-size: 75%;
+}
+
+#error-messages h4, #error-messages li {
+	font-size: 75%;
+}
+
+#error-messages-wrapper {
+	padding: 0.5em;
+	border: 1px solid black;
+	background: beige;
+	margin-bottom: 1em;
+}
+
+#error-messages ul {
+	margin: 0;
+	padding: 0;
+	margin-left: 1em;
+}
+
+#error-messages ul li {
+	color: #F00;
+}
+
+.form-field {
+	margin-bottom: 0.5em;
+}
+
+#loading-indicator {
+	border: 1px solid #AAF;
+	background: #DDF;
+	padding: 1em 2em;
+	border-radius: 10px;;
+}

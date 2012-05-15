@@ -1,0 +1,44 @@
+# SQLite version 3.x
+#   gem install sqlite3
+#
+#   Ensure the SQLite 3 gem is defined in your Gemfile
+#   gem 'sqlite3'
+development:
+  adapter: postgis
+  database: greenhome_development
+  username: greenhome
+  password: greenhome
+  su-username: greenhome_creator
+  su-password: greenhome_creator
+  encoding: unicode
+  script-dir: /usr/share/postgresql/8.4/contrib/postgis-1.5
+  pool: 5
+  timeout: 5000
+  schema_search_path: "public,postgis"
+
+# Warning: The database defined as "test" will be erased and
+# re-generated from your development database when you run "rake".
+# Do not set this db to the same as development or production.
+test: &test
+  adapter: postgis
+  database: greenhome_test
+  username: greenhome
+  password: greenhome
+  su-username: greenhome_creator
+  su-password: greenhome_creator
+  script-dir: /usr/share/postgresql/8.4/contrib/postgis-1.5
+  pool: 5
+  timeout: 5000
+  schema_search_path: "public,postgis"
+
+production:
+  adapter: postgis
+  database: greenhome_production
+  su-username: greenhome_creator
+  su-password: greenhome_creator
+  pool: 5
+  timeout: 5000
+  schema_search_path: "public,postgis"
+
+cucumber:
+  <<: *test

@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  usage_point_id: 1
+  import_id: 1
+  updated: 2012-05-11 14:59:09
+  published: 2012-05-11 14:59:09
+  content: MyString
+  reading_type: MyString
+  currency: MyString
+  powerOfTenMultiplier: MyString
+
+two:
+  usage_point_id: 1
+  import_id: 1
+  updated: 2012-05-11 14:59:09
+  published: 2012-05-11 14:59:09
+  content: MyString
+  reading_type: MyString
+  currency: MyString
+  powerOfTenMultiplier: MyString

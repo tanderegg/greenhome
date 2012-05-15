@@ -1,0 +1,30 @@
+%h1 Welcome to GreenHome!
+
+=image_tag('solar_panels.jpg', :class => 'solar-panel-image')
+
+%p GreenHome is your personal energy assistant.  Utilizing data from the Department of Energy's GreenButton program, GreenHome allows you to see your energy usage over time and identify ways to reduce your impact on the environment- and save money at the same time!
+
+%br
+%br
+
+%p 
+	To get started,
+	=link_to 'download your data using the Green Button.', 'about'
+	Then, upload it to GreenHome using the form below.
+
+#green-button-submit.clearfix
+	=image_tag('greenbutton.png', :class=>'greenbutton')
+
+	=form_for @import, :html => {:id => 'home-import-form'} do |f|
+		%p.note Click 'Browse' and then locate your GreenButton data file on your computer.  Click "Get Started" to upload.
+
+		.form-field
+			=f.file_field :feed_file
+
+		.form-field
+			=f.submit 'Get Started!'
+
+%p.note 
+	If your energy provider does not yet support the Green Button,
+	=link_to 'click here', ''
+	to download sample data.

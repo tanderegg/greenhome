@@ -1,0 +1,43 @@
+#dashboard
+	-if not user_signed_in?
+		#account-notice
+			You have not yet created an account.  To save your energy data and fully take advantage of GreenHome's features, please 
+			=link_to "register here.", "#", :id => 'register-link'
+
+	%h2 Welcome to Your Dashboard!
+	%p Usage Point: #{raw(@usage_point.formatted_address)}
+
+	#dashboard-wrapper.clearfix
+		#dashboard-sidebar
+			%ul#dashboard-nav
+				%li=link_to 'Usage Chart', update_chart_url(:unit => :month), :remote => true, :class => 'selected'
+				%li=link_to 'Go Solar', go_solar_url
+				%li=link_to 'Energy Audit', '#'
+			#usage-stats
+				%h4 Quick Facts
+				%ul
+					%li=raw("<strong>Mean Usage (Kwh):</strong> <span class=\"average-usage\">#{@average_usage}</span> per <span class=\"unit\">#{@unit}</span>")
+					%li=raw("<strong>Total Usage (Kwh):</strong> <span class=\"total-usage\">#{@total_usage}</span>")
+					%li=raw("<strong>Mean Cost (USD):</strong> <span class=\"average-cost\">#{number_to_currency(@average_cost)}</span> per <span class=\"unit\">#{@unit}</span>")
+					%li=raw("<strong>Total Cost (USD):</strong> <span class=\"total-cost\">#{number_to_currency(@total_cost)}</span>")
+
+		#dashboard-content
+			#usage-chart-header
+				%span.start-time=link_to @start_time.to_date.to_s(:long), update_chart_url(), :remote => true, :class => 'chart-link'
+				to
+				%span.end-time=link_to @end_time.to_date.to_s(:long), update_chart_url(), :remote => true, :class => 'chart-link'
+				
+				%ul#chart-options
+					%li=link_to 'Daily', update_chart_url(:unit => :day), :remote => true, :class => 'chart-link'
+					%li=link_to 'Weekly', update_chart_url(:unit => :week), :remote => true, :class => 'chart-link'
+					%li=link_to 'Monthly', update_chart_url(:unit => :month), :remote => true, :class => 'chart-link selected'
+					%li=link_to 'Usage Pattern', update_chart_url(:unit => :typical_week), :remote => true, :class => 'chart-link'
+			#usage-chart
+
+	%script
+		var d = #{@usage_data.to_s};
+		var a = #{@usage_data.collect{|data| [data[0], @average_usage.to_i]}.to_s };
+		var s = #{@usage_data.collect{|data| [data[0], 587]}.to_s };
+		var c = #{@cost_data.to_s};
+		var start_date = Date.UTC(#{@start_time.year}, #{@start_time.month}-2, #{@start_time.day});
+		var end_date = Date.UTC(#{@end_time.year}, #{@end_time.month}, #{@end_time.day});

@@ -1,0 +1,16 @@
+#account-form
+	%h2 Editing Your Account
+
+	=form_for @usage_point, :url => update_account_url(@usage_point), :method => :post do |f|
+		%p
+			=f.label :address
+			=f.text_field :address, :class => 'address-field'
+		%p
+			=f.label 'City, State'
+			=f.text_field :city, :class => 'city-field'
+			=f.text_field :state, :class => 'state-field'
+		%p
+			=f.label 'Zipcode'
+			=f.text_field :zip_code, :class => 'zipcode-field'
+		%p
+			=f.submit 'Update Your Account'

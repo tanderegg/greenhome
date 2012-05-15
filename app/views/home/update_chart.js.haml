@@ -1,0 +1,27 @@
+d = #{@usage_data.to_s}
+a = #{@usage_data.collect{|data| [data[0], @average_usage.to_i]}.to_s };
+s = #{@usage_data.collect{|data| [data[0], @average_for_area]}.to_s };
+c = #{@cost_data.to_s}
+start_date = #{@start_time.to_i};
+end_date = #{@end_time.to_i};
+
+$('.average-usage').html('#{@average_usage}');
+$('.average-cost').html('#{number_to_currency(@average_cost)}');
+$('.unit').html('#{@unit}');
+$('.total-usage').html('#{@total_usage}');
+$('.num-units').html('#{@num_units}');
+
+:plain	
+	options.series[0].data = c;
+	options.series[1].data = a;
+	options.series[2].data = s;
+	options.series[3].data = d;
+	
+	chart = new Highcharts.Chart(options);
+
+	start_date = Date.UTC(#{@start_time.year}, #{@start_time.month}-2, #{@start_time.day});
+	end_date = Date.UTC(#{@end_time.year}, #{@end_time.month}, #{@end_time.day});
+		
+	chart.xAxis[0].setExtremes(start_date, end_date);
+
+	$('#loading-indicator').fadeOut(500);

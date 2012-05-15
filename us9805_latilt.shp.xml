@@ -1,0 +1,1132 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+&lt;html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:st1="urn:schemas-microsoft-com:office:smarttags"
+xmlns="http://www.w3.org/TR/REC-html40"&gt;
+
+&lt;head&gt;
+&lt;meta http-equiv=Content-Type content="text/html; charset=iso-8859-1"&gt;
+&lt;meta name=ProgId content=Word.Document&gt;
+&lt;meta name=Generator content="Microsoft Word 11"&gt;
+&lt;meta name=Originator content="Microsoft Word 11"&gt;
+&lt;link rel=File-List href="l48_perez_tilt_files/filelist.xml"&gt;
+&lt;link rel=Edit-Time-Data href="l48_perez_tilt_files/editdata.mso"&gt;
+&lt;!--[if !mso]&gt;
+&lt;style&gt;
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+&lt;/style&gt;
+&lt;![endif]--&gt;
+&lt;title&gt;Alaska Solar Resource: Flat Plate Collector, Facing the Equator, Tilted
+at Latitude&lt;/title&gt;
+&lt;o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+name="country-region"/&gt;
+&lt;o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+name="State"/&gt;
+&lt;o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+name="City"/&gt;
+&lt;o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+name="place"/&gt;
+&lt;o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+name="Street"/&gt;
+&lt;o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+name="address"/&gt;
+&lt;!--[if gte mso 9]&gt;&lt;xml&gt;
+&lt;o:DocumentProperties&gt;
+&lt;o:Author&gt;ray george&lt;/o:Author&gt;
+&lt;o:LastAuthor&gt;ray george&lt;/o:LastAuthor&gt;
+&lt;o:Revision&gt;3&lt;/o:Revision&gt;
+&lt;o:TotalTime&gt;290&lt;/o:TotalTime&gt;
+&lt;o:Created&gt;2007-02-14T00:43:00Z&lt;/o:Created&gt;
+&lt;o:LastSaved&gt;2007-02-14T19:45:00Z&lt;/o:LastSaved&gt;
+&lt;o:Pages&gt;1&lt;/o:Pages&gt;
+&lt;o:Words&gt;2069&lt;/o:Words&gt;
+&lt;o:Characters&gt;11796&lt;/o:Characters&gt;
+&lt;o:Company&gt;NREL&lt;/o:Company&gt;
+&lt;o:Lines&gt;98&lt;/o:Lines&gt;
+&lt;o:Paragraphs&gt;27&lt;/o:Paragraphs&gt;
+&lt;o:CharactersWithSpaces&gt;13838&lt;/o:CharactersWithSpaces&gt;
+&lt;o:Version&gt;11.8107&lt;/o:Version&gt;
+&lt;/o:DocumentProperties&gt;
+&lt;/xml&gt;&lt;![endif]--&gt;&lt;!--[if gte mso 9]&gt;&lt;xml&gt;
+&lt;w:WordDocument&gt;
+&lt;w:SpellingState&gt;Clean&lt;/w:SpellingState&gt;
+&lt;w:GrammarState&gt;Clean&lt;/w:GrammarState&gt;
+&lt;w:ValidateAgainstSchemas/&gt;
+&lt;w:SaveIfXMLInvalid&gt;false&lt;/w:SaveIfXMLInvalid&gt;
+&lt;w:IgnoreMixedContent&gt;false&lt;/w:IgnoreMixedContent&gt;
+&lt;w:AlwaysShowPlaceholderText&gt;false&lt;/w:AlwaysShowPlaceholderText&gt;
+&lt;w:BrowserLevel&gt;MicrosoftInternetExplorer4&lt;/w:BrowserLevel&gt;
+&lt;/w:WordDocument&gt;
+&lt;/xml&gt;&lt;![endif]--&gt;&lt;!--[if gte mso 9]&gt;&lt;xml&gt;
+&lt;w:LatentStyles DefLockedState="false" LatentStyleCount="156"&gt;
+&lt;/w:LatentStyles&gt;
+&lt;/xml&gt;&lt;![endif]--&gt;&lt;!--[if !mso]&gt;&lt;object
+classid="clsid:38481807-CA0E-42D2-BF39-B33AF135CC4D" id=ieooui&gt;&lt;/object&gt;
+&lt;style&gt;
+st1\:*{behavior:url(#ieooui) }
+&lt;/style&gt;
+&lt;![endif]--&gt;
+&lt;style&gt;
+&lt;!--
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+{mso-style-parent:"";
+margin:0in;
+margin-bottom:.0001pt;
+mso-pagination:widow-orphan;
+font-size:12.0pt;
+font-family:"Times New Roman";
+mso-fareast-font-family:"Times New Roman";}
+h1
+{mso-margin-top-alt:auto;
+margin-right:0in;
+mso-margin-bottom-alt:auto;
+margin-left:0in;
+mso-pagination:widow-orphan;
+mso-outline-level:1;
+font-size:24.0pt;
+font-family:"Times New Roman";
+font-weight:bold;}
+h2
+{mso-margin-top-alt:auto;
+margin-right:0in;
+mso-margin-bottom-alt:auto;
+margin-left:0in;
+mso-pagination:widow-orphan;
+mso-outline-level:2;
+font-size:18.0pt;
+font-family:"Times New Roman";
+font-weight:bold;}
+a:link, span.MsoHyperlink
+{color:blue;
+text-decoration:underline;
+text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+{color:blue;
+text-decoration:underline;
+text-underline:single;}
+p
+{mso-margin-top-alt:auto;
+margin-right:0in;
+mso-margin-bottom-alt:auto;
+margin-left:0in;
+mso-pagination:widow-orphan;
+font-size:12.0pt;
+font-family:"Times New Roman";
+mso-fareast-font-family:"Times New Roman";}
+tt
+{font-family:"Courier New";
+mso-ascii-font-family:"Courier New";
+mso-fareast-font-family:"Times New Roman";
+mso-hansi-font-family:"Courier New";
+mso-bidi-font-family:"Courier New";}
+span.SpellE
+{mso-style-name:"";
+mso-spl-e:yes;}
+span.GramE
+{mso-style-name:"";
+mso-gram-e:yes;}
+@page Section1
+{size:8.5in 11.0in;
+margin:1.0in 1.25in 1.0in 1.25in;
+mso-header-margin:.5in;
+mso-footer-margin:.5in;
+mso-paper-source:0;}
+div.Section1
+{page:Section1;}
+/* List Definitions */
+@list l0
+{mso-list-id:879049310;
+mso-list-template-ids:-522834962;}
+@list l0:level1
+{mso-level-number-format:bullet;
+mso-level-text:\F0B7;
+mso-level-tab-stop:.5in;
+mso-level-number-position:left;
+text-indent:-.25in;
+mso-ansi-font-size:10.0pt;
+font-family:Symbol;}
+@list l1
+{mso-list-id:1323006555;
+mso-list-template-ids:-1328269386;}
+@list l1:level1
+{mso-level-number-format:bullet;
+mso-level-text:\F0B7;
+mso-level-tab-stop:.5in;
+mso-level-number-position:left;
+text-indent:-.25in;
+mso-ansi-font-size:10.0pt;
+font-family:Symbol;}
+@list l1:level2
+{mso-level-tab-stop:1.0in;
+mso-level-number-position:left;
+text-indent:-.25in;}
+@list l1:level3
+{mso-level-tab-stop:1.5in;
+mso-level-number-position:left;
+text-indent:-.25in;}
+@list l1:level4
+{mso-level-tab-stop:2.0in;
+mso-level-number-position:left;
+text-indent:-.25in;}
+@list l1:level5
+{mso-level-tab-stop:2.5in;
+mso-level-number-position:left;
+text-indent:-.25in;}
+@list l1:level6
+{mso-level-tab-stop:3.0in;
+mso-level-number-position:left;
+text-indent:-.25in;}
+@list l1:level7
+{mso-level-tab-stop:3.5in;
+mso-level-number-position:left;
+text-indent:-.25in;}
+@list l1:level8
+{mso-level-tab-stop:4.0in;
+mso-level-number-position:left;
+text-indent:-.25in;}
+@list l1:level9
+{mso-level-tab-stop:4.5in;
+mso-level-number-position:left;
+text-indent:-.25in;}
+ol
+{margin-bottom:0in;}
+ul
+{margin-bottom:0in;}
+--&gt;
+&lt;/style&gt;
+&lt;!--[if gte mso 10]&gt;
+&lt;style&gt;
+/* Style Definitions */
+table.MsoNormalTable
+{mso-style-name:"Table Normal";
+mso-tstyle-rowband-size:0;
+mso-tstyle-colband-size:0;
+mso-style-noshow:yes;
+mso-style-parent:"";
+mso-padding-alt:0in 5.4pt 0in 5.4pt;
+mso-para-margin:0in;
+mso-para-margin-bottom:.0001pt;
+mso-pagination:widow-orphan;
+font-size:10.0pt;
+font-family:"Times New Roman";
+mso-ansi-language:#0400;
+mso-fareast-language:#0400;
+mso-bidi-language:#0400;}
+&lt;/style&gt;
+&lt;![endif]--&gt;
+&lt;link rel=schema.dc href="http://purl.org/metadata/dublin_core"&gt;
+&lt;meta name=dc.title
+content="Alaska  Solar Resource: Flat Plate Collector, Facing the Equator, Tilted at Latitude "&gt;
+&lt;meta name=dc.creator content="Ray George "&gt;
+&lt;meta name=dc.subject content="solar resource solar potential global "&gt;
+&lt;meta name=dc.description
+content="Monthly and annual average solar resource potential for Alaska. "&gt;
+&lt;meta name=dc.publisher content="National Renewable Energy Labratory"&gt;
+&lt;meta name=dc.date content=19990930&gt;
+&lt;meta name=dc.type content="data.vector digital data"&gt;
+&lt;meta name=dc.identifier
+content="\\LBRADY2\c\metadata\data_for_ ftp\solar\ak\AK_tilt.shp"&gt;
+&lt;meta name=dc.source content="Downloadable Data"&gt;
+&lt;meta name=dc.lang content=en&gt;
+&lt;meta name=dc.coverage.x.min scheme=DD content=-179.141998&gt;
+&lt;meta name=dc.coverage.x.max scheme=DD content=-129.990540&gt;
+&lt;meta name=dc.coverage.y.min scheme=DD content=51.210815&gt;
+&lt;meta name=dc.coverage.y.max scheme=DD content=71.407761&gt;
+&lt;meta name=dc.coverage.placeName content=Alaska&gt;
+&lt;meta name=dc.coverage.t.min content=19850101&gt;
+&lt;meta name=dc.coverage.t.max content=19911231&gt;
+&lt;meta name=dc.coverage.periodName content=monthly&gt;
+&lt;meta name=dc.rights
+content="Access constraints: None.; Use constraints: This GIS data was developed by the National Renewable Energy Laboratory (&amp;quot;NREL&amp;quot;), which is operated by the Midwest Research Institute for the U.S. Department of Energy (&amp;quot;DOE&amp;quot;). The user is granted the right, without any fee or cost, to use, copy, modify, alter, enhance and distribute this data for any purpose whatsoever, provided that this entire notice appears in all copies of the data. Further, the user of this data agrees to credit NREL in any publications or software that incorporate or use the data. "&gt;
+&lt;/head&gt;
+
+&lt;body lang=EN-US link=blue vlink=blue style='tab-interval:.5in'&gt;
+
+&lt;div class=Section1&gt;
+
+&lt;h1&gt;Contiguous &lt;st1:country-region w:st="on"&gt;&lt;st1:place w:st="on"&gt;United States&lt;/st1:place&gt;&lt;/st1:country-region&gt;
+Solar Resource: Flat Plate Collector, Facing the Equator, Tilted at Latitude&lt;/h1&gt;
+
+&lt;p class=MsoNormal&gt;Metadata also available as&lt;/p&gt;
+
+&lt;h2&gt;Metadata:&lt;/h2&gt;
+
+&lt;ul type=disc&gt;
+&lt;li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+mso-list:l1 level1 lfo3;tab-stops:list .5in'&gt;&lt;a href="#1"&gt;&lt;span
+class=SpellE&gt;Identification_Information&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+mso-list:l1 level1 lfo3;tab-stops:list .5in'&gt;&lt;a href="#2"&gt;&lt;span
+class=SpellE&gt;Data_Quality_Information&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+mso-list:l1 level1 lfo3;tab-stops:list .5in'&gt;&lt;a href="#3"&gt;&lt;span
+class=SpellE&gt;Spatial_Data_Organization_Information&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+mso-list:l1 level1 lfo3;tab-stops:list .5in'&gt;&lt;a href="#4"&gt;&lt;span
+class=SpellE&gt;Spatial_Reference_Information&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+mso-list:l1 level1 lfo3;tab-stops:list .5in'&gt;&lt;a href="#5"&gt;&lt;span
+class=SpellE&gt;Entity_and_Attribute_Information&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+mso-list:l1 level1 lfo3;tab-stops:list .5in'&gt;&lt;a href="#6"&gt;&lt;span
+class=SpellE&gt;Distribution_Information&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+mso-list:l1 level1 lfo3;tab-stops:list .5in'&gt;&lt;a href="#7"&gt;&lt;span
+class=SpellE&gt;Metadata_Reference_Information&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=MsoNormal align=center style='text-align:center'&gt;&lt;a name=1&gt;&lt;/a&gt;
+
+&lt;hr size=2 width="100%" align=center&gt;
+
+&lt;/div&gt;
+
+&lt;p class=MsoNormal&gt;&lt;span class=SpellE&gt;&lt;em&gt;Identification_Information&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Citation:&lt;/em&gt; &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Citation_Information&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Originator:&lt;/em&gt; Ray George&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Publication_Date&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+20070211&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Title:&lt;/em&gt; &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;Contiguous &lt;st1:country-region
+w:st="on"&gt;&lt;st1:place w:st="on"&gt;United States&lt;/st1:place&gt;&lt;/st1:country-region&gt;
+Solar Resource: Flat Plate Collector, Facing the Equator, Tilted at Latitude &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Geospatial_Data_Presentation_Form&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+vector digital data&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Publication_Information&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Publication_Place&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+&lt;st1:place w:st="on"&gt;&lt;st1:City w:st="on"&gt;Golden&lt;/st1:City&gt;, &lt;st1:State w:st="on"&gt;Colorado&lt;/st1:State&gt;
+&lt;st1:country-region w:st="on"&gt;USA&lt;/st1:country-region&gt;&lt;/st1:place&gt;&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Publisher:&lt;/em&gt; National
+Renewable Energy Lab&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Other_Citation_Details&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+&lt;/p&gt;
+
+&lt;p class=MsoNormal&gt;&lt;span style='font-size:10.0pt;font-family:Arial;color:navy;
+mso-bidi-font-weight:bold'&gt;Perez, R., P. &lt;span class=SpellE&gt;Ineichen&lt;/span&gt;, K.
+Moore, &lt;span class=SpellE&gt;M.Kmiecik&lt;/span&gt;, C. Chain, R. George and F. Vignola
+(2002):&lt;span style='mso-spacerun:yes'&gt;  &lt;/span&gt;A New Operational
+Satellite-to-Irradiance Model.&lt;span style='mso-spacerun:yes'&gt;  &lt;/span&gt;Solar
+Energy&lt;/span&gt;&lt;span style='font-family:Arial;color:black;mso-bidi-font-weight:
+bold'&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/p&gt;
+
+&lt;p style='margin-left:.5in'&gt;Marion, William and Stephen Wilcox, 1994:
+&amp;quot;Solar Radiation Data Manual for Flat-plate and Concentrating
+Collectors&amp;quot;. &lt;span class=GramE&gt;NREL/TP-463-5607, National Renewable Energy
+Laboratory, 1617 Cole Boulevard, Golden, CO 80401.&lt;/span&gt; &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Online_Linkage&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+&lt;a href="file:///\\LBRADY2\c\metadata\data_for_%20ftp\solar\ak\AK_tilt.shp"&gt;\\LBRADY2\c\metadata\data_for_
+ftp\solar\&lt;span class=SpellE&gt;ak\AK_tilt.shp&lt;/span&gt;&lt;/a&gt; &lt;span
+style='mso-spacerun:yes'&gt; &lt;/span&gt;(***needs fix***)&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Description:&lt;/em&gt; &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Abstract:&lt;/em&gt; Monthly and
+annual average solar resource potential for 48 Contiguous United States.&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Purpose:&lt;/em&gt; &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;Provide information on the solar
+resource potential for the 48 contiguous states. The &lt;span class=SpellE&gt;insolation&lt;/span&gt;
+values represent the average solar energy available to a flat plate collector,
+such as a photovoltaic panel, oriented due south at an angle from horizontal
+equal to the latitude of the collector location. &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Supplemental_Information&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;This data provides monthly average
+and annual average daily total solar resource averaged over surface cells of
+0.1 degrees in both latitude and longitude, or about 10 km in size. This data
+was developed using the State University of New York/Albany satellite radiation
+model.&lt;span style='mso-spacerun:yes'&gt;  &lt;/span&gt;This model was developed by Dr.
+Richard Perez and collaborators at the National Renewable Energy Laboratory and
+other universities for the U.S. Department of Energy. Specific information
+about this model can be found in Perez, et al. (2002). This model uses hourly
+radiance images from geostationary weather satellites, daily snow cover data,
+and monthly averages of atmospheric water vapor, trace gases, and the amount of
+aerosols in the atmosphere to calculate the hourly total &lt;span class=SpellE&gt;insolation&lt;/span&gt;
+(sun and sky) falling on a horizontal surface. Atmospheric water vapor, trace
+gases, and aerosols are derived from a variety of sources. The procedures for
+converting the collector at latitude tilt are described in Marion and Wilcox
+(1994). Where possible, existing ground measurement stations are used to
+validate the data. Nevertheless, there is uncertainty associated with the &lt;span
+class=SpellE&gt;meterological&lt;/span&gt; input to the model, since some of the input
+parameters are not &lt;span class=SpellE&gt;avalable&lt;/span&gt; at a 10km resolution. As
+a result, it is believed that the modeled values are accurate to approximately
+10% of a true measured value within the grid cell. Due to terrain effects and
+other &lt;span class=SpellE&gt;micoclimate&lt;/span&gt; influences, the local cloud cover
+can vary significantly even within a single grid cell. Furthermore, the &lt;span
+class=GramE&gt;uncertainty of the modeled estimates increase&lt;/span&gt; with distance
+from reliable measurement sources and with the complexity of the terrain. &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Time_Period_of_Content&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Time_Period_Information&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Range_of_Dates&lt;/em&gt;&lt;/span&gt;&lt;em&gt;/Times:&lt;/em&gt;
+&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Beginning_Date&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+19980101&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Ending_Date&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+20051231&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Currentness_Reference&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+ground condition&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Status:&lt;/em&gt; &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Progress:&lt;/em&gt; Complete&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Maintenance_and_Update_Frequency&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+As needed&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Spatial_Domain&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Bounding_Coordinates&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;West_Bounding_Coordinate&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+-179.141998&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;East_Bounding_Coordinate&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+-129.990540&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;North_Bounding_Coordinate&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+71.407761&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;South_Bounding_Coordinate&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+51.210815&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Keywords:&lt;/em&gt; &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Theme:&lt;/em&gt; &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Theme_Keyword_Thesaurus&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+none&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Theme_Keyword&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+solar resource&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Theme_Keyword&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+solar potential&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Theme_Keyword&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+global&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Place:&lt;/em&gt; &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Place_Keyword_Thesaurus&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+&lt;st1:State w:st="on"&gt;&lt;st1:place w:st="on"&gt;Alaska&lt;/st1:place&gt;&lt;/st1:State&gt;&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Place_Keyword&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+&lt;st1:State w:st="on"&gt;&lt;st1:place w:st="on"&gt;Alaska&lt;/st1:place&gt;&lt;/st1:State&gt;&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Temporal:&lt;/em&gt; &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Temporal_Keyword_Thesaurus&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+none&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Temporal_Keyword&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+monthly&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Access_Constraints&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+None.&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Use_Constraints&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;This GIS data was developed by the National
+Renewable Energy Laboratory (&amp;quot;NREL&amp;quot;), which is operated by the
+Midwest Research Institute for the U.S. Department of Energy (&amp;quot;DOE&amp;quot;).
+The user is granted the right, without any fee or cost, to use, copy, modify,
+alter, enhance and distribute this data for any purpose whatsoever, provided
+that this entire notice appears in all copies of the data. Further, the user of
+this data agrees to credit NREL in any publications or software that
+incorporate or use the data. &lt;/p&gt;
+
+&lt;p style='margin-left:.5in'&gt;Access to and use of the GIS data shall further
+impose the following obligations on the User. The names DOE/NREL may not be
+used in any advertising or publicity to endorse or promote any product or
+commercial entity using or incorporating the GIS data unless specific written
+authorization is obtained from DOE/NREL. The User also understands that
+DOE/NREL shall not be obligated to provide updates, support, consulting,
+training or assistance of any kind whatsoever with regard to the use of the GIS
+data. &lt;/p&gt;
+
+&lt;p style='margin-left:.5in'&gt;THE GIS DATA IS PROVIDED &amp;quot;AS IS&amp;quot; AND ANY
+EXPRESS OR IMPLIED WARRANTIES, INCLUDING BUT NOT LIMITED TO, THE IMPLIED
+WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL DOE/NREL BE LIABLE FOR ANY SPECIAL, INDIRECT OR
+CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER, INCLUDING BUT NOT LIMITED TO
+CLAIMS ASSOCIATED WITH THE LOSS OF DATA OR PROFITS, WHICH MAY RESULT FROM AN
+ACTION IN CONTRACT, NEGLIGENCE OR OTHER TORTIOUS CLAIM THAT ARISES OUT OF OR IN
+CONNECTION WITH THE ACCESS OR USE OF THE GIS DATA. &lt;/p&gt;
+
+&lt;p style='margin-left:.5in'&gt;The User acknowledges that access to the GIS data
+is subject to U.S. Export laws and regulations and any use or transfer of the
+GIS data must be authorized under those regulations. The User shall not use,
+distribute, transfer, or transmit GIS data or any products incorporating the
+GIS data except in compliance with &lt;st1:country-region w:st="on"&gt;&lt;st1:place
+w:st="on"&gt;U.S.&lt;/st1:place&gt;&lt;/st1:country-region&gt; export regulations. If
+requested by DOE/NREL, the User agrees to sign written assurances and other
+export-related documentation as may be required to comply with &lt;st1:country-region
+w:st="on"&gt;&lt;st1:place w:st="on"&gt;U.S.&lt;/st1:place&gt;&lt;/st1:country-region&gt; export
+regulations. &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Point_of_Contact&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Contact_Information&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Contact_Person_Primary&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Contact_Person&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+Ray George&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Contact_Organization&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+National Renewable Energy Laboratory&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Contact_Position&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+Scientist&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Contact_Voice_Telephone&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+303-275-4669&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Contact_Voice_Telephone&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+303-384-6981&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Contact_Facsimile_Telephone&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+303-275-4675&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Contact_Electronic_Mail_Address&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+ray_george@nrel.gov&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Hours_of_Service&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+9 - 5 Monday - Friday&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Native_Data_Set_Environment&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;Microsoft Windows 2000 Version 5.0
+(Build 2195) Service Pack 4; ESRI &lt;span class=SpellE&gt;ArcCatalog&lt;/span&gt;
+9.0.0.535 (**fix**)&lt;/p&gt;
+
+&lt;div class=MsoNormal align=center style='text-align:center'&gt;&lt;a name=2&gt;&lt;/a&gt;
+
+&lt;hr size=2 width="100%" align=center&gt;
+
+&lt;/div&gt;
+
+&lt;p class=MsoNormal&gt;&lt;span class=SpellE&gt;&lt;em&gt;Data_Quality_Information&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Lineage:&lt;/em&gt; &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Process_Step&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Process_Description&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+<metadata>imported.&lt;/p&gt;</metadata>
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Source_Used_Citation_Abbreviation&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+C:\DOCUME~1\mmenand\LOCALS~1\Temp\xml3F0.tmp&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Process_Step&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Process_Description&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+Dataset copied.&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Source_Used_Citation_Abbreviation&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+C:\MetaData\solar\aktilt&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Process_Step&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Process_Description&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+Dataset moved.&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Source_Used_Citation_Abbreviation&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+C:\MetaData\Data_For_FTP\aktilt&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Process_Step&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Process_Description&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+<metadata>imported.&lt;/p&gt;</metadata>
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Source_Used_Citation_Abbreviation&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+C:\DOCUME~1\mmenand\LOCALS~1\Temp\xmlD6F.tmp&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Process_Step&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Process_Description&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+Dataset moved.&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Source_Used_Citation_Abbreviation&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+C:\MetaData\Data for FTP\Solar\Alaska\&lt;span class=SpellE&gt;aktilt&lt;/span&gt;&lt;/p&gt;
+
+&lt;div class=MsoNormal align=center style='text-align:center'&gt;&lt;a name=3&gt;&lt;/a&gt;
+
+&lt;hr size=2 width="100%" align=center&gt;
+
+&lt;/div&gt;
+
+&lt;p class=MsoNormal&gt;&lt;span class=SpellE&gt;&lt;em&gt;Spatial_Data_Organization_Information&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Direct_Spatial_Reference_Method&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+Vector&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Point_and_Vector_Object_Information&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;SDTS_Terms_Description&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;SDTS_Point_and_Vector_Object_Type&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+G-polygon&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Point_and_Vector_Object_Count&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+1637&lt;/p&gt;
+
+&lt;div class=MsoNormal align=center style='text-align:center'&gt;&lt;a name=4&gt;&lt;/a&gt;
+
+&lt;hr size=2 width="100%" align=center&gt;
+
+&lt;/div&gt;
+
+&lt;p class=MsoNormal&gt;&lt;span class=SpellE&gt;&lt;em&gt;Spatial_Reference_Information&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Horizontal_Coordinate_System_Definition&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Geographic:&lt;/em&gt; &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Latitude_Resolution&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+0.000001&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Longitude_Resolution&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+0.000001&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Geographic_Coordinate_Units&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+Decimal degrees&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Geodetic_Model&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Horizontal_Datum_Name&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+North American Datum of 1927&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Ellipsoid_Name&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+Clarke 1866&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Semi-&lt;span class=SpellE&gt;major_Axis&lt;/span&gt;:&lt;/em&gt;
+6378206.400000&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Denominator_of_Flattening_Ratio&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+294.978698&lt;/p&gt;
+
+&lt;div class=MsoNormal align=center style='text-align:center'&gt;&lt;a name=5&gt;&lt;/a&gt;
+
+&lt;hr size=2 width="100%" align=center&gt;
+
+&lt;/div&gt;
+
+&lt;p class=MsoNormal&gt;&lt;span class=SpellE&gt;&lt;em&gt;Entity_and_Attribute_Information&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Detailed_Description&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Entity_Type&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Entity_Type_Label&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+US_9805_latilt&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Attribute:&lt;/em&gt; &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Attribute_Label&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+FID&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Attribute_Definition&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+Internal feature number.&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Attribute_Definition_Source&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+ESRI&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Attribute_Domain_Values&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Unrepresentable_Domain&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=GramE&gt;Sequential unique
+whole numbers that are automatically generated.&lt;/span&gt; &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Attribute:&lt;/em&gt; &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Attribute_Label&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+Shape&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Attribute_Definition&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+Feature geometry.&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Attribute_Definition_Source&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+ESRI&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Attribute_Domain_Values&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Unrepresentable_Domain&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+Coordinates defining the features.&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Attribute:&lt;/em&gt; &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Attribute_Label&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+ID&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Attribute:&lt;/em&gt; &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Attribute_Label&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+GRIDCODE&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Attribute:&lt;/em&gt; &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Attribute_Label&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+AVALASKA_&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Attribute:&lt;/em&gt; &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Attribute_Label&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+AVALASKA_I&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Attribute:&lt;/em&gt; &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Attribute_Label&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+RTPOLY_&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Attribute:&lt;/em&gt; &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Attribute_Label&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+RTPOLY_ID&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Attribute:&lt;/em&gt; &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Attribute_Label&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+CELL_ID&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Attribute:&lt;/em&gt; &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Attribute_Label&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+COUNTRY_&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Attribute:&lt;/em&gt; &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Attribute_Label&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+COUNTRY_ID&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Attribute:&lt;/em&gt; &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Attribute_Label&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+COUNTRY&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Attribute:&lt;/em&gt; &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Attribute_Label&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+CNTRY_NAME&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Attribute:&lt;/em&gt; &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Attribute_Label&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+REGION&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Attribute:&lt;/em&gt; &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Attribute_Label&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+CONTINENT&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Attribute:&lt;/em&gt; &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Attribute_Label&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+LAND_OCEAN&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Attribute:&lt;/em&gt; &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Attribute_Label&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+ISLND_RANK&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Attribute:&lt;/em&gt; &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Attribute_Label&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+STAT_FLAG&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Attribute:&lt;/em&gt; &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Attribute_Label&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+EEC&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Attribute:&lt;/em&gt; &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Attribute_Label&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+FAO&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Attribute:&lt;/em&gt; &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Attribute_Label&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+GA&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Attribute:&lt;/em&gt; &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Attribute_Label&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+GA_MEMB_YR&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Attribute:&lt;/em&gt; &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Attribute_Label&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+IAEA&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Attribute:&lt;/em&gt; &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Attribute_Label&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+IBRD&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Attribute:&lt;/em&gt; &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Attribute_Label&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+IMF&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Attribute:&lt;/em&gt; &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Attribute_Label&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+OPEC&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Attribute:&lt;/em&gt; &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Attribute_Label&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+SC&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Attribute:&lt;/em&gt; &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Attribute_Label&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+UNESCO&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Attribute:&lt;/em&gt; &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Attribute_Label&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+WHO&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Attribute:&lt;/em&gt; &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Attribute_Label&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+WMO&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Attribute:&lt;/em&gt; &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Attribute_Label&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+X_COORD&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Attribute:&lt;/em&gt; &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Attribute_Label&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+Y_COORD&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Attribute:&lt;/em&gt; &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Attribute_Label&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+JANTLT&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Attribute:&lt;/em&gt; &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Attribute_Label&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+FEBTLT&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Attribute:&lt;/em&gt; &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Attribute_Label&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+MARTLT&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Attribute:&lt;/em&gt; &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Attribute_Label&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+APRTLT&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Attribute:&lt;/em&gt; &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Attribute_Label&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+MAYTLT&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Attribute:&lt;/em&gt; &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Attribute_Label&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+JUNTLT&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Attribute:&lt;/em&gt; &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Attribute_Label&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+JULTLT&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Attribute:&lt;/em&gt; &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Attribute_Label&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+AUGTLT&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Attribute:&lt;/em&gt; &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Attribute_Label&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+SEPTLT&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Attribute:&lt;/em&gt; &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Attribute_Label&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+OCTTLT&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Attribute:&lt;/em&gt; &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Attribute_Label&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+NOVTLT&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Attribute:&lt;/em&gt; &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Attribute_Label&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+DECTLT&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Attribute:&lt;/em&gt; &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Attribute_Label&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+ANNTLT&lt;/p&gt;
+
+&lt;div class=MsoNormal align=center style='text-align:center'&gt;&lt;a name=6&gt;&lt;/a&gt;
+
+&lt;hr size=2 width="100%" align=center&gt;
+
+&lt;/div&gt;
+
+&lt;p class=MsoNormal&gt;&lt;span class=SpellE&gt;&lt;em&gt;Distribution_Information&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Distributor:&lt;/em&gt; &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Contact_Information&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Contact_Person_Primary&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Contact_Person&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+Ray George&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Contact_Organization&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+National Renewable Energy &lt;span class=SpellE&gt;Labratory&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Contact_Address&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Address_Type&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+Mailing and Physical Address&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Address:&lt;/em&gt; &lt;st1:Street
+w:st="on"&gt;&lt;st1:address w:st="on"&gt;1617 Cole Blvd&lt;/st1:address&gt;&lt;/st1:Street&gt;&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;City:&lt;/em&gt; Golden&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;State_or_Province&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+CO&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Postal_Code&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+80401&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Country:&lt;/em&gt; &lt;st1:country-region
+w:st="on"&gt;&lt;st1:place w:st="on"&gt;USA&lt;/st1:place&gt;&lt;/st1:country-region&gt;&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Contact_Voice_Telephone&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+303-275-4669.&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Contact_Facsimile_Telephone&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+303-275-4675&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Contact_Electronic_Mail_Address&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+ray_george@nrel.gov&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Resource_Description&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+Downloadable Data&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Distribution_Liability&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;This GIS data was developed by the
+National Renewable Energy Laboratory (&amp;quot;NREL&amp;quot;), which is operated by
+the Midwest Research Institute for the U.S. Department of Energy (&amp;quot;DOE&amp;quot;).
+The user is granted the right, without any fee or cost, to use, copy, modify,
+alter, enhance and distribute this data for any purpose whatsoever, provided
+that this entire notice appears in all copies of the data. Further, the user of
+this data agrees to credit NREL in any publications or software that
+incorporate or use the data. &lt;/p&gt;
+
+&lt;p style='margin-left:.5in'&gt;Access to and use of the GIS data shall further
+impose the following obligations on the User. The names DOE/NREL may not be
+used in any advertising or publicity to endorse or promote any product or
+commercial entity using or incorporating the GIS data unless specific written
+authorization is obtained from DOE/NREL. The User also understands that
+DOE/NREL shall not be obligated to provide updates, support, consulting, training
+or assistance of any kind whatsoever with regard to the use of the GIS data. &lt;/p&gt;
+
+&lt;p style='margin-left:.5in'&gt;THE GIS DATA IS PROVIDED &amp;quot;AS IS&amp;quot; AND ANY
+EXPRESS OR IMPLIED WARRANTIES, INCLUDING BUT NOT LIMITED TO, THE IMPLIED
+WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL DOE/NREL BE LIABLE FOR ANY SPECIAL, INDIRECT OR
+CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER, INCLUDING BUT NOT LIMITED TO
+CLAIMS ASSOCIATED WITH THE LOSS OF DATA OR PROFITS, WHICH MAY RESULT FROM AN
+ACTION IN CONTRACT, NEGLIGENCE OR OTHER TORTIOUS CLAIM THAT ARISES OUT OF OR IN
+CONNECTION WITH THE ACCESS OR USE OF THE GIS DATA. &lt;/p&gt;
+
+&lt;p style='margin-left:.5in'&gt;The User acknowledges that access to the GIS data
+is subject to U.S. Export laws and regulations and any use or transfer of the
+GIS data must be authorized under those regulations. The User shall not use,
+distribute, transfer, or transmit GIS data or any products incorporating the
+GIS data except in compliance with &lt;st1:country-region w:st="on"&gt;&lt;st1:place
+w:st="on"&gt;U.S.&lt;/st1:place&gt;&lt;/st1:country-region&gt; export regulations. If
+requested by DOE/NREL, the User agrees to sign written assurances and other
+export-related documentation as may be required to comply with &lt;st1:country-region
+w:st="on"&gt;&lt;st1:place w:st="on"&gt;U.S.&lt;/st1:place&gt;&lt;/st1:country-region&gt; export
+regulations. &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Standard_Order_Process&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Digital_Form&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Digital_Transfer_Information&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Transfer_Size&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+0.871&lt;/p&gt;
+
+&lt;div class=MsoNormal align=center style='text-align:center'&gt;&lt;a name=7&gt;&lt;/a&gt;
+
+&lt;hr size=2 width="100%" align=center&gt;
+
+&lt;/div&gt;
+
+&lt;p class=MsoNormal&gt;&lt;span class=SpellE&gt;&lt;em&gt;Metadata_Reference_Information&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Metadata_Date&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+20040804&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Metadata_Contact&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Contact_Information&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Contact_Person_Primary&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Contact_Person&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+Michael Menand&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Contact_Organization&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+National Renewable Energy &lt;span class=SpellE&gt;Labratory&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Contact_Address&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Address_Type&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+Mailing and Physical Address&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Address:&lt;/em&gt; &lt;st1:Street
+w:st="on"&gt;&lt;st1:address w:st="on"&gt;1617 Cole Blvd.&lt;/st1:address&gt;&lt;/st1:Street&gt;&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;City:&lt;/em&gt; Golden&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;State_or_Province&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+&lt;st1:State w:st="on"&gt;&lt;st1:place w:st="on"&gt;Colorado&lt;/st1:place&gt;&lt;/st1:State&gt;&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Postal_Code&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+80401&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Country:&lt;/em&gt; &lt;st1:country-region
+w:st="on"&gt;&lt;st1:place w:st="on"&gt;USA&lt;/st1:place&gt;&lt;/st1:country-region&gt;&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Contact_Voice_Telephone&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+303-275-4623&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Metadata_Standard_Name&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+FGDC Content Standards for Digital Geospatial Metadata&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Metadata_Standard_Version&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+FGDC-STD-001-1998&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Metadata_Time_Convention&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+<local>time&lt;/p&gt;</local>
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Metadata_Extensions&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Online_Linkage&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+&lt;a href="http://www.esri.com/metadata/esriprof80.html"&gt;&amp;lt;http://www.esri.com/metadata/esriprof80.html&amp;gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span class=SpellE&gt;&lt;em&gt;Profile_Name&lt;/em&gt;&lt;/span&gt;&lt;em&gt;:&lt;/em&gt;
+ESRI Metadata Profile&lt;/p&gt;
+
+&lt;div class=MsoNormal align=center style='text-align:center'&gt;
+
+&lt;hr size=2 width="100%" align=center&gt;
+
+&lt;/div&gt;
+
+&lt;p class=MsoNormal&gt;Generated by &lt;a
+href="http://geology.usgs.gov/tools/metadata/tools/doc/mp.html"&gt;&lt;tt&gt;&lt;span
+style='font-size:10.0pt'&gt;mp&lt;/span&gt;&lt;/tt&gt;&lt;/a&gt; version 2.8.6 on Wed Aug 04
+14:01:26 2004&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+<Esri><MetaID>{7769E963-2D43-4C7A-84EA-0DFEFA640C0A}</MetaID><CreaDate>20070223</CreaDate><CreaTime>09190400</CreaTime><SyncOnce>FALSE</SyncOnce><SyncDate>20120322</SyncDate><SyncTime>14415200</SyncTime><ModDate>20120322</ModDate><ModTime>14422500</ModTime></Esri><dataqual><lineage/></dataqual><idinfo><native Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.3.0.1770</native><descript><langdata Sync="TRUE">en</langdata><abstract>Monthly and annual average solar resource potential for 48 Contiguous United States.</abstract><purpose>Provide information on the solar resource potential for the 48 contiguous states.</purpose><supplinf>This data provides monthly average and annual average daily total solar resource averaged over surface cells of 0.1 degrees in both latitude and longitude, or about 10 km in size. This data was developed using the State University of New York/Albany satellite radiation model.  This model was developed by Dr. Richard Perez and collaborators at the National Renewable Energy Laboratory and other universities for the U.S. Department of Energy. Specific information about this model can be found in Perez, et al. (2002). This model uses hourly radiance images from geostationary weather satellites, daily snow cover data, and monthly averages of atmospheric water vapor, trace gases, and the amount of aerosols in the atmosphere to calculate the hourly total insolation (sun and sky) falling on a horizontal surface. Atmospheric water vapor, trace gases, and aerosols are derived from a variety of sources. The procedures for converting the collector at latitude tilt are described in Marion and Wilcox (1994). Where possible, existing ground measurement stations are used to validate the data. Nevertheless, there is uncertainty associated with the meterological input to the model, since some of the input parameters are not avalable at a 10km resolution. As a result, it is believed that the modeled values are accurate to approximately 10% of a true measured value within the grid cell. Due to terrain effects and other micoclimate influences, the local cloud cover can vary significantly even within a single grid cell. Furthermore, the uncertainty of the modeled estimates increase with distance from reliable measurement sources and with the complexity of the terrain. 
+
+</supplinf></descript><citation><citeinfo><origin>SUNY Albany and NREL</origin><pubdate>Unknown</pubdate><title Sync="TRUE">us9805_latilt</title><ftname Sync="TRUE">us9805_latilt</ftname><geoform Sync="TRUE">vector digital data</geoform><othercit>Perez, R., P. Ineichen, K. Moore, M.Kmiecik, C. Chain, R. George and F. Vignola (2002):  A New Operational Satellite-to-Irradiance Model.  Solar Energy</othercit><onlink>http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Solar/High_Resolution/Lower_48_LATTILT_High_Resolution.zip</onlink></citeinfo></citation><timeperd><current>publication date</current><timeinfo><mdattim><sngdate><time>unknown</time></sngdate><sngdate><caldate>19980101</caldate><time>unknown</time></sngdate><sngdate><caldate>20051231</caldate><time>unknown</time></sngdate></mdattim></timeinfo></timeperd><status><progress>Complete</progress><update>As needed</update></status><spdom><bounding><westbc Sync="TRUE">-125.000000</westbc><eastbc Sync="TRUE">-66.500000</eastbc><northbc Sync="TRUE">49.700000</northbc><southbc Sync="TRUE">24.200000</southbc></bounding><lboundng><leftbc Sync="TRUE">-125.000000</leftbc><rightbc Sync="TRUE">-66.500000</rightbc><bottombc Sync="TRUE">24.200000</bottombc><topbc Sync="TRUE">49.700000</topbc></lboundng></spdom><keywords><theme><themekey>Resource Potential</themekey><themekey>Solar Resource</themekey><themekey>PV</themekey></theme><place><placekey>Contiguous United States </placekey></place></keywords><accconst>None</accconst><useconst>This GIS data was developed by the National Renewable Energy Laboratory ("NREL"), which is operated by the Alliance for Sustainable Energy, LLC  for the U.S. Department of Energy ("DOE"). The user is granted the right, without any fee or cost, to use, copy, modify, alter, enhance and distribute this data for any purpose whatsoever, provided that this entire notice appears in all copies of the data. Further, the user of this data agrees to credit NREL in any publications or software that incorporate or use the data. 
+
+Access to and use of the GIS data shall further impose the following obligations on the User. The names DOE/NREL may not be used in any advertising or publicity to endorse or promote any product or commercial entity using or incorporating the GIS data unless specific written authorization is obtained from DOE/NREL. The User also understands that DOE/NREL shall not be obligated to provide updates, support, consulting, training or assistance of any kind whatsoever with regard to the use of the GIS data. 
+
+THE GIS DATA IS PROVIDED "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL DOE/NREL BE LIABLE FOR ANY SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER, INCLUDING BUT NOT LIMITED TO CLAIMS ASSOCIATED WITH THE LOSS OF DATA OR PROFITS, WHICH MAY RESULT FROM AN ACTION IN CONTRACT, NEGLIGENCE OR OTHER TORTIOUS CLAIM THAT ARISES OUT OF OR IN CONNECTION WITH THE ACCESS OR USE OF THE GIS DATA. 
+
+The User acknowledges that access to the GIS data is subject to U.S. Export laws and regulations and any use or transfer of the GIS data must be authorized under those regulations. The User shall not use, distribute, transfer, or transmit GIS data or any products incorporating the GIS data except in compliance with U.S. export regulations. If requested by DOE/NREL, the User agrees to sign written assurances and other export-related documentation as may be required to comply with U.S. export regulations.</useconst><natvform Sync="TRUE">Shapefile</natvform><ptcontac><cntinfo><cntorgp><cntorg>NREL</cntorg></cntorgp><cntvoice>303-275-4669</cntvoice><cntemail>ray_george@NREL.gov</cntemail></cntinfo></ptcontac><datacred>NREL</datacred></idinfo><dataIdInfo><envirDesc Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.3.0.1770</envirDesc><dataLang><languageCode Sync="TRUE" value="en"></languageCode></dataLang><idCitation><resTitle Sync="TRUE">us9805_latilt</resTitle><presForm><PresFormCd Sync="TRUE" value="005"></PresFormCd></presForm></idCitation><spatRpType><SpatRepTypCd Sync="TRUE" value="001"></SpatRepTypCd></spatRpType><dataExt><geoEle><GeoBndBox esriExtentType="native"><westBL Sync="TRUE">-125</westBL><eastBL Sync="TRUE">-66.5</eastBL><northBL Sync="TRUE">49.7</northBL><southBL Sync="TRUE">24.2</southBL><exTypeCode Sync="TRUE">1</exTypeCode></GeoBndBox></geoEle></dataExt><geoBox esriExtentType="decdegrees"><westBL Sync="TRUE">-125</westBL><eastBL Sync="TRUE">-66.5</eastBL><northBL Sync="TRUE">49.7</northBL><southBL Sync="TRUE">24.2</southBL><exTypeCode Sync="TRUE">1</exTypeCode></geoBox></dataIdInfo><metainfo><langmeta Sync="TRUE">en</langmeta><metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn><metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv><mettc Sync="TRUE">local time</mettc><metc><cntinfo><cntorgp><cntper>Pamela Gray-Hann</cntper><cntorg>NREL</cntorg></cntorgp><cntaddr><addrtype>mailing address</addrtype><city>Golden</city><state>Colorado</state><postal>80401</postal><address>15013 Denver West Parkway </address><country>USA</country></cntaddr><cntvoice>303-275-4626</cntvoice><cntemail>Pamela.Gray.Hann@nrel.gov</cntemail></cntinfo></metc><metd Sync="TRUE">20120322</metd><metextns><onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink><metprof Sync="TRUE">ESRI Metadata Profile</metprof></metextns></metainfo><mdLang><languageCode Sync="TRUE" value="en"></languageCode></mdLang><mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName><mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer><mdChar><CharSetCd Sync="TRUE" value="004"></CharSetCd></mdChar><mdHrLv><ScopeCd Sync="TRUE" value="005"></ScopeCd></mdHrLv><mdHrLvName Sync="TRUE">dataset</mdHrLvName><distinfo><resdesc Sync="TRUE">Downloadable Data</resdesc><stdorder><digform><digtinfo><transize Sync="TRUE">11.734</transize><dssize Sync="TRUE">11.734</dssize></digtinfo></digform></stdorder></distinfo><distInfo><distributor><distorTran><onLineSrc><orDesc Sync="TRUE">002</orDesc><linkage Sync="TRUE">file://\\PGRAY-12799S\C\Documents and Settings\PGray\Desktop\GISdatazipfiles\solar_data\extracted_solar\us9805_latilt.shp</linkage><protocol Sync="TRUE">Local Area Network</protocol></onLineSrc><transSize Sync="TRUE">11.734</transSize></distorTran><distorFormat><formatName Sync="TRUE">Shapefile</formatName></distorFormat></distributor></distInfo><spdoinfo><direct Sync="TRUE">Vector</direct><ptvctinf><esriterm Name="us9805_latilt"><efeatyp Sync="TRUE">Simple</efeatyp><efeageom Sync="TRUE">Polygon</efeageom><esritopo Sync="TRUE">FALSE</esritopo><efeacnt Sync="TRUE">90469</efeacnt><spindex Sync="TRUE">FALSE</spindex><linrefer Sync="TRUE">FALSE</linrefer></esriterm><sdtsterm Name="us9805_latilt"><sdtstype Sync="TRUE">G-polygon</sdtstype><ptvctcnt Sync="TRUE">90469</ptvctcnt></sdtsterm></ptvctinf></spdoinfo><spref><horizsys><cordsysn><geogcsn Sync="TRUE">GCS_WGS_1984</geogcsn></cordsysn><geograph><geogunit Sync="TRUE">Decimal degrees</geogunit><latres Sync="TRUE">0.000000</latres><longres Sync="TRUE">0.000000</longres></geograph><geodetic><horizdn Sync="TRUE">D_WGS_1984</horizdn><ellips Sync="TRUE">WGS_1984</ellips><semiaxis Sync="TRUE">6378137.000000</semiaxis><denflat Sync="TRUE">298.257224</denflat></geodetic></horizsys></spref><refSysInfo><RefSystem><refSysID><identCode Sync="TRUE">GCS_WGS_1984</identCode></refSysID></RefSystem></refSysInfo><spatRepInfo><VectSpatRep><topLvl><TopoLevCd Sync="TRUE" value="001"></TopoLevCd></topLvl><geometObjs Name="us9805_latilt"><geoObjTyp><GeoObjTypCd Sync="TRUE" value="001"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">90469</geoObjCnt></geometObjs></VectSpatRep></spatRepInfo><eainfo><detailed Name="us9805_latilt"><enttyp><enttypl Sync="TRUE">us9805_latilt</enttypl><enttypt Sync="TRUE">Feature Class</enttypt><enttypc Sync="TRUE">90469</enttypc></enttyp><attr><attrlabl Sync="TRUE">FID</attrlabl><attalias Sync="TRUE">FID</attalias><attrtype Sync="TRUE">OID</attrtype><attwidth Sync="TRUE">4</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef Sync="TRUE">Internal feature number.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom></attrdomv></attr><attr><attrlabl Sync="TRUE">Shape</attrlabl><attalias Sync="TRUE">Shape</attalias><attrtype Sync="TRUE">Geometry</attrtype><attwidth Sync="TRUE">0</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef Sync="TRUE">Feature geometry.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Coordinates defining the features.</udom></attrdomv></attr><attr><attrlabl Sync="TRUE">ID</attrlabl><attalias Sync="TRUE">ID</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">10</attwidth></attr><attr><attrlabl Sync="TRUE">GRIDCODE</attrlabl><attalias Sync="TRUE">GRIDCODE</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">10</attwidth></attr><attr><attrlabl Sync="TRUE">JAN</attrlabl><attalias Sync="TRUE">JAN</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">6</attwidth><attrdef>Jan - all monthly and annual values are shown in watt-hours/m2/day (divide by 1000 to get KW)</attrdef><atnumdec Sync="TRUE">1</atnumdec></attr><attr><attrlabl Sync="TRUE">FEB</attrlabl><attalias Sync="TRUE">FEB</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">6</attwidth><atnumdec Sync="TRUE">1</atnumdec></attr><attr><attrlabl Sync="TRUE">MAR</attrlabl><attalias Sync="TRUE">MAR</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">6</attwidth><atnumdec Sync="TRUE">1</atnumdec></attr><attr><attrlabl Sync="TRUE">APR</attrlabl><attalias Sync="TRUE">APR</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">6</attwidth><atnumdec Sync="TRUE">1</atnumdec></attr><attr><attrlabl Sync="TRUE">MAY</attrlabl><attalias Sync="TRUE">MAY</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">6</attwidth><atnumdec Sync="TRUE">1</atnumdec></attr><attr><attrlabl Sync="TRUE">JUN</attrlabl><attalias Sync="TRUE">JUN</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">6</attwidth><atnumdec Sync="TRUE">1</atnumdec></attr><attr><attrlabl Sync="TRUE">JUL</attrlabl><attalias Sync="TRUE">JUL</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">6</attwidth><atnumdec Sync="TRUE">1</atnumdec></attr><attr><attrlabl Sync="TRUE">AUG</attrlabl><attalias Sync="TRUE">AUG</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">6</attwidth><atnumdec Sync="TRUE">1</atnumdec></attr><attr><attrlabl Sync="TRUE">SEP</attrlabl><attalias Sync="TRUE">SEP</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">6</attwidth><atnumdec Sync="TRUE">1</atnumdec></attr><attr><attrlabl Sync="TRUE">OCT</attrlabl><attalias Sync="TRUE">OCT</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">6</attwidth><atnumdec Sync="TRUE">1</atnumdec></attr><attr><attrlabl Sync="TRUE">NOV</attrlabl><attalias Sync="TRUE">NOV</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">6</attwidth><atnumdec Sync="TRUE">1</atnumdec></attr><attr><attrlabl Sync="TRUE">DEC</attrlabl><attalias Sync="TRUE">DEC</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">6</attwidth><atnumdec Sync="TRUE">1</atnumdec></attr><attr><attrlabl Sync="TRUE">ANNUAL</attrlabl><attalias Sync="TRUE">ANNUAL</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">6</attwidth><atnumdec Sync="TRUE">1</atnumdec></attr></detailed></eainfo><mdDateSt Sync="TRUE">20120322</mdDateSt></metadata>

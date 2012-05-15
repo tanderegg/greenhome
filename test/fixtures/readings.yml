@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  feed_id: 1
+  usage_point_id: 1
+  cost: 1
+  reading_quality: 1
+  start: 2012-05-11 20:06:54
+  duration: 1
+  value: 1
+
+two:
+  feed_id: 1
+  usage_point_id: 1
+  cost: 1
+  reading_quality: 1
+  start: 2012-05-11 20:06:54
+  duration: 1
+  value: 1

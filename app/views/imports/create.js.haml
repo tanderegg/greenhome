@@ -1,0 +1,12 @@
+-if @import.errors.any?
+	:plain
+		var errors = $("#{escape_javascript(render :partial => 'layouts/errors', :locals => {:object => @import})}");
+		$('#error-messages').append(errors);
+-else
+	:plain
+		var dashboard = $("#{escape_javascript(render :partial => 'home/dashboard')}").fadeIn(2000);
+
+		fadeOutContent('#content', function() {
+			$('#content').append(dashboard);
+			$('#wrapper').animate({width: '960px'}, 1000);
+		});
