@@ -57,7 +57,7 @@ private
 			zipcode = usage_point_entry.css("title").first.inner_text.match(/(\d{5}|\d{5}\-\d{4})/)[0]
 
 			# Construct or find usage point
-			usage_point = UsagePoint.find_or_create_by_external_id(usage_point_id)
+			usage_point = UsagePoint.create(:external_id => usage_point_id)
 
 			usage_point.external_user_id = user_id if usage_point.external_user_id.blank?
 			usage_point.zip_code = zipcode if usage_point.zip_code.blank?
